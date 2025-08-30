@@ -1,0 +1,2 @@
+just run app.py in terminal by  writing  flask run . it will give u a ip just click on this by ctrl+click.
+  then site open then go to guiz button which will send you to the quize.html . then ans. the question in number click to predict . it will run the result.html . show model output.
